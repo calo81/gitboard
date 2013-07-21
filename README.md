@@ -14,9 +14,9 @@ gem install gitboard
  
 2. Run the dashboard
 
-```
+ ```
 gitboard
-```
+ ```
  
  
  
